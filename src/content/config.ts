@@ -31,3 +31,5 @@ export const collections = {
 	posts: postsCollection,
 	spec: specCollection,
 };
+
+

@@ -1,54 +1,54 @@
-# About This Site
+# 关于本站
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+本站采用 **Astro** 框架构建，并使用 [Mizuki](https://github.com/matsuzaka-yuki/mizuki) 主题。
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
 
-## 🌟 Theme Features
+## 🌟 主题特色
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+### 🎨 设计与用户体验
+- **现代优雅设计** - 简洁、极简的界面，搭配精美排版
+- **完全响应式** - 从手机到桌面全设备优化
+- **深色/浅色模式** - 自动主题切换，过渡流畅
+- **精美字体** - 采用 JetBrains Mono 字体，提升可读性
+- **丝滑动画** - 流畅的页面过渡与交互元素
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+### 🔍 内容与搜索
+- **高级搜索** - 基于 [Pagefind](https://pagefind.app/)，快速精准
+- **增强 Markdown** - 扩展语法，支持代码高亮与数学公式
+- **互动目录** - 长文自动滚动导航
+- **RSS 自动生成** - 自动更新订阅源
+- **预计阅读时间** - 显示文章阅读所需时长
+- **文章分类** - 使用标签与分类整理内容
 
-### 🌐 Internationalization
-- **Multi-language Support** - Real-time translation capabilities
-- **Auto Language Detection** - Detects user preferences automatically
-- **Client-side Translation** - Powered by Edge Translate technology
-- **10+ Languages Supported** - EN, ZH-CN, ZH-TW, JA, KO, ES, TH, VI, ID, TR
+### 🌐 国际化
+- **多语言支持** - 实时翻译能力
+- **自动语言检测** - 自动识别用户偏好
+- **客户端翻译** - 采用 Edge Translate 技术
+- **支持 10+ 语言** - 英、简中、繁中、日、韩、西、泰、越、印尼、土
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+### 📱 特色页面
+- **番剧追踪页** - 记录追番进度与评分
+- **友链页面** - 用精美卡片展示好友网站
+- **日记/动态页** - 像社交媒体一样分享生活瞬间
+- **归档页面** - 按时间线整理所有文章
+- **关于页面** - 可自定义的个人介绍（就是本页！）
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+### 🛠 技术特性
+- **增强代码块** - 由 [Expressive Code](https://expressive-code.com/) 驱动
+- **数学公式支持** - 使用 KaTeX 渲染 LaTeX 数学表达式
+- **图片优化** - PhotoSwipe 图库，支持懒加载
+- **SEO 优化** - 内置站点地图与元标签，提升搜索可见性
+- **性能优化** - 缓存与优化，加载飞快
+- **评论系统就绪** - 支持集成 Twikoo 评论
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+### 🎯 高级 Markdown 功能
+- **醒目标注** - 用 `> [!NOTE]`、`> [!TIP]`、`> [!WARNING]` 创建美观信息框
+- **数学公式** - 使用 `$行内$` 与 `$$块级$$` 书写 LaTeX
+- **GitHub 卡片** - 用 `::github{repo="user/repo"}` 嵌入仓库卡片
+- **语法高亮** - 高级代码高亮，支持行号
+- **一键复制代码** - 轻松复制代码块内容
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+*用 ❤️ 构建，基于 Astro，灵感源于现代网页设计原则。*
